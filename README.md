@@ -1,1 +1,1 @@
-# Replication: Michael P. Keane & Kenneth I. Wopin(1994)
+This notebook replicate the some of key results from Michael P. Keane & Kenneth I. Wopin(1994).

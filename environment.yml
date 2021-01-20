@@ -33,7 +33,7 @@ dependencies:
 - scikit-learn
 - seaborn
 - temfpy
-- numdifftools  
+- numdifftools
 - chaospy
 - pip:
     - black-nb
