@@ -35,6 +35,7 @@ dependencies:
 - temfpy
 - numdifftools
 - chaospy
+- mpi4py
 - pip:
     - black-nb
     - flake8-nb
